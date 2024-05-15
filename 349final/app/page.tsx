@@ -80,8 +80,3 @@ export default function Home() {
     </main>
   );
 }
-
-export function FirstPost() {
-  return <h1>First Post</h1>;
-}
-
