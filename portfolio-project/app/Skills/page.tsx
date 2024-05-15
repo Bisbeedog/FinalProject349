@@ -14,6 +14,9 @@ export default function FirstPost() {
 
   <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:grid-cols-3 lg:text-left ">
 
+
+    {/*List of my skills*/}
+
   <div className = "width:100%">
   <h2 className="box-sizing:border-box mb-3 text-2xl font-semibold width:33%">
       List{" "}
@@ -43,6 +46,9 @@ export default function FirstPost() {
 
   </div>
 
+
+    {/*Unity logo image*/}
+
   <Image
           className="box-sizing:border-box text-center relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert width:33%"
           src="/Unity.png"
@@ -65,6 +71,7 @@ export default function FirstPost() {
     Return to the main menu 
   </p>
 
+    {/*Fixes a formatting issue with the break lines*/}
 
   </Link>      
   </div>

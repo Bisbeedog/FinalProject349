@@ -45,6 +45,8 @@ export default function FirstPost() {
 
   </div>
 
+  {/*A basic image*/}
+
   <Image
           className="box-sizing:border-box text-center relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert width:33%"
           src="/RollingRobots.png"
@@ -53,6 +55,9 @@ export default function FirstPost() {
           height={2000}
           priority
         />
+
+
+  {/*returns to main menu*/}
 
   <Link 
   href="/" 
@@ -68,7 +73,10 @@ export default function FirstPost() {
   </p>
 
 
-  </Link>      
+  </Link>  
+
+    {/*Fixes a formatting issue with the break lines*/}
+    
   </div>
   <br></br>
   <br></br>
