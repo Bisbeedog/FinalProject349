@@ -14,6 +14,8 @@ export default function FirstPost() {
 
   <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:grid-cols-3 lg:text-left ">
 
+
+  {/*The text box for my job description*/}
   <div className = "width:100%">
   <h2 className="box-sizing:border-box mb-3 text-2xl font-semibold width:33%">
       Previous Jobs{" "}
