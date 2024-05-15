@@ -16,39 +16,39 @@ export default function FirstPost() {
 
   <div className = "width:100%">
   <h2 className="box-sizing:border-box mb-3 text-2xl font-semibold width:33%">
-      List{" "}
+      Previous Jobs{" "}
  
   </h2>
   <p className="m-0 max-w-[30ch] text-l opacity-75  ">
-      C++
+      Rolling Robots
   </p>
   <p className="m-0 max-w-[30ch] text-l opacity-75  ">
-    Unity
+    Summer 2023
+  </p>
+  <p>
+    Taught children the basics of robotics full time
+  </p>
+  <br>
+  </br>
+  <p className="m-0 max-w-[30ch] text-l opacity-75  ">
+    Yogurtland
   </p>
   <p className="m-0 max-w-[30ch] text-l opacity-75  ">
-    Python
+    Jan 2022-August 2022
   </p>
   <p className="m-0 max-w-[30ch] text-l opacity-75  ">
-    Web Dev(react, html, js, css)
+    Served frozen yogurt part time
   </p>
-  <p className="m-0 max-w-[30ch] text-l opacity-75  ">
-    Web Dev(react, html, js, css)
-  </p>
-  <p className="m-0 max-w-[30ch] text-l opacity-75  ">
-    Web Dev(react, html, js, css)
-  </p>
-  <p className="m-0 max-w-[30ch] text-l opacity-75  ">
-    Web Dev(react, html, js, css)
-  </p>
+
 
   </div>
 
   <Image
-          className="box-sizing:border-box relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert width:33%"
-          src="/TitanWar.png"
-          alt="Titan War Screenshot"
-          width={360}
-          height={74}
+          className="box-sizing:border-box text-center relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert width:33%"
+          src="/RollingRobots.png"
+          alt="RollingRobots"
+          width={200}
+          height={2000}
           priority
         />
 
@@ -68,7 +68,28 @@ export default function FirstPost() {
 
   </Link>      
   </div>
-
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
   </div>
   );
 }
